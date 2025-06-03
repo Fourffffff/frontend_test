@@ -194,5 +194,145 @@
         <optional data-v-165fb010="" class="btn" index="0" index-of-type="0" />
       </web>
     </selector>
+    <selector id="86112255-20bb-47da-b586-7c127f3a5193" name="图片_1" type="simple" framework="chromium" processName="ShadowBotBrowser" productName="ShadowBotBrowser" winTitle="首页" screenshot=".dev\screenshot\85fbe702-ab61-482d-858b-9143726a8ec8.jpg">
+      <web x:name="div">
+        <optional id="app" data-v-app="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-app">
+        <optional class="uni-app--showtabbar" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-page">
+        <optional data-page="pages/index/index" type="tabBar" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-page-wrapper">
+        <optional index="1" index-of-type="0" />
+      </web>
+      <web x:name="uni-page-body">
+        <optional data-v-1cf27b2a="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-1cf27b2a="" class="home pagebg" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-1cf27b2a="" class="waterfall" index="2" index-of-type="1" />
+      </web>
+      <web x:name="uni-view" index="0">
+        <optional data-v-0c1c42e9="" data-v-1cf27b2a="" class="card" index-of-type="0" />
+      </web>
+      <web x:name="uni-image">
+        <optional data-v-0c1c42e9="" class="card-image" index="0" index-of-type="0" />
+      </web>
+      <web x:name="img">
+        <optional src="http://localhost:8000/images/library.jpg" draggable="false" index="2" index-of-type="0" />
+      </web>
+    </selector>
+    <selector id="ba155f63-40b0-4680-b6cd-f19f8d4514f6" name="图片_2" type="simple" framework="chromium" processName="ShadowBotBrowser" productName="ShadowBotBrowser" winTitle="首页" screenshot=".dev\screenshot\85e70588-a1ea-4747-9ae0-74ce57ce462b.jpg">
+      <web x:name="div">
+        <optional id="app" data-v-app="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-app">
+        <optional class="uni-app--showtabbar" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-page">
+        <optional data-page="pages/index/index" type="tabBar" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-page-wrapper">
+        <optional index="1" index-of-type="0" />
+      </web>
+      <web x:name="uni-page-body">
+        <optional data-v-1cf27b2a="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-1cf27b2a="" class="home pagebg" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-1cf27b2a="" class="waterfall" index="2" index-of-type="1" />
+      </web>
+      <web x:name="uni-view" index="2">
+        <optional data-v-0c1c42e9="" data-v-1cf27b2a="" class="card" index-of-type="2" />
+      </web>
+      <web x:name="uni-image">
+        <optional data-v-0c1c42e9="" class="card-image" index="0" index-of-type="0" />
+      </web>
+      <web x:name="img">
+        <optional src="http://localhost:8000/images/sports_field.jpg" draggable="false" index="2" index-of-type="0" />
+      </web>
+    </selector>
+    <selector id="b9405782-fc1f-4ca1-bfb8-cc62434613ee" name="uni-text" type="simple" framework="chromium" processName="ShadowBotBrowser" productName="ShadowBotBrowser" winTitle="localhost:5173/#/pages/note_info/note_info?id=3" screenshot=".dev\screenshot\31bd8fd3-9312-4b11-9c22-15d057c047ef.jpg">
+      <web x:name="div">
+        <optional id="app" data-v-app="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-app">
+        <optional index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-page">
+        <optional data-page="pages/note_info/note_info" type="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-page-wrapper">
+        <optional index="1" index-of-type="0" />
+      </web>
+      <web x:name="uni-page-body">
+        <optional data-v-f60b877d="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-f60b877d="" id="3" class="note_info" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-f60b877d="" class="text" index="1" index-of-type="1" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-f60b877d="" class="otherinfo" index="1" index-of-type="1" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-f60b877d="" class="likeandfavourite" index="1" index-of-type="1" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-f60b877d="" class="like" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-f60b877d="" class="likeicon" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-text" class="uni-icons uniui-hand-up">
+        <optional data-v-d31e1c47="" data-v-f60b877d="" index="0" index-of-type="0" />
+      </web>
+    </selector>
+    <selector id="a1da69ce-b5fa-476d-a9f6-1c831d5ce7a5" name="uni-text_1" type="simple" framework="chromium" processName="ShadowBotBrowser" productName="ShadowBotBrowser" winTitle="localhost:5173/#/pages/note_info/note_info?id=3" screenshot=".dev\screenshot\d5fac983-4e56-48ee-a181-0bff4bda251f.jpg">
+      <web x:name="div">
+        <optional id="app" data-v-app="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-app">
+        <optional index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-page">
+        <optional data-page="pages/note_info/note_info" type="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-page-wrapper">
+        <optional index="1" index-of-type="0" />
+      </web>
+      <web x:name="uni-page-body">
+        <optional data-v-f60b877d="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-f60b877d="" id="3" class="note_info" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-f60b877d="" class="text" index="1" index-of-type="1" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-f60b877d="" class="otherinfo" index="1" index-of-type="1" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-f60b877d="" class="likeandfavourite" index="1" index-of-type="1" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-f60b877d="" class="favourite" index="1" index-of-type="1" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-f60b877d="" class="favicon" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-text" class="uni-icons uniui-star">
+        <optional data-v-d31e1c47="" data-v-f60b877d="" index="0" index-of-type="0" />
+      </web>
+    </selector>
   </group>
 </repository>

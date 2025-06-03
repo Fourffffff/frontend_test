@@ -1,19 +1,33 @@
 {
   "openedFlows": [
-    "main"
+    "main",
+    "子流程1",
+    "子流程2"
   ],
   "activeBottomPanel": "运行日志",
-  "activeFlow": "main",
+  "activeFlow": "子流程2",
   "breakPoints": [
     {
       "FlowName": "main",
       "Lines": null,
-      "BlockIds": []
+      "BlockIds": [
+        "2390b776-f7af-4544-982d-586015842158"
+      ]
     },
     {
       "FlowName": "test",
       "Lines": [],
       "BlockIds": null
+    },
+    {
+      "FlowName": "子流程1",
+      "Lines": null,
+      "BlockIds": []
+    },
+    {
+      "FlowName": "子流程2",
+      "Lines": null,
+      "BlockIds": []
     }
   ]
 }

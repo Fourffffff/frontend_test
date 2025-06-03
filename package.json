@@ -33,6 +33,27 @@
       "kind": "Code",
       "opened": false,
       "groupName": null
+    },
+    {
+      "name": "子流程1",
+      "filename": "process1",
+      "kind": "Visual",
+      "opened": false,
+      "groupName": null
+    },
+    {
+      "name": "子流程2",
+      "filename": "process2",
+      "kind": "Visual",
+      "opened": false,
+      "groupName": null
+    },
+    {
+      "name": "子流程3",
+      "filename": "process3",
+      "kind": "Visual",
+      "opened": false,
+      "groupName": null
     }
   ],
   "flow_groups": [],
