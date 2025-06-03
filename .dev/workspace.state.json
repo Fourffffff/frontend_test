@@ -1,0 +1,19 @@
+{
+  "openedFlows": [
+    "main"
+  ],
+  "activeBottomPanel": "运行日志",
+  "activeFlow": "main",
+  "breakPoints": [
+    {
+      "FlowName": "main",
+      "Lines": null,
+      "BlockIds": []
+    },
+    {
+      "FlowName": "test",
+      "Lines": [],
+      "BlockIds": null
+    }
+  ]
+}

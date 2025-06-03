@@ -1,0 +1,57 @@
+{
+  "uuid": "101302c9-ab5d-4b3b-92cb-f5a6e78ed9da",
+  "name": "前端测试",
+  "icon": null,
+  "version": "1",
+  "tags": null,
+  "software": null,
+  "software_title": null,
+  "package_version": 5,
+  "feature_list": [
+    2,
+    4,
+    5
+  ],
+  "description": null,
+  "instruction": "",
+  "use_latest_pip": false,
+  "videoName": "",
+  "startup": "main",
+  "robot_type": "app",
+  "activity_code": null,
+  "flows": [
+    {
+      "name": "main",
+      "filename": "main",
+      "kind": "Visual",
+      "opened": false,
+      "groupName": null
+    },
+    {
+      "name": "test",
+      "filename": "test",
+      "kind": "Code",
+      "opened": false,
+      "groupName": null
+    }
+  ],
+  "flow_groups": [],
+  "variables": [],
+  "external_dependencies": [],
+  "internaldependencies": [],
+  "selectordependencies": [],
+  "internalautodependencies": [],
+  "ipaasDependencies": [],
+  "databook_columns": [],
+  "authority": "use",
+  "internalautoupgrade": false,
+  "isbrief": false,
+  "uia_type": "PC",
+  "persist_databook": false,
+  "customItems": {
+    "gifUrl": null,
+    "videoUrl": "",
+    "imageUrl": "",
+    "imageName": ""
+  }
+}

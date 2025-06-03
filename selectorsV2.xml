@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<repository xmlns:x="rpa://selector/core" xmlns:regex="rpa://selector/operator/regex" xmlns:wildcard="rpa://selector/operator/wildcard">
+  <group id="f2c7cafe-4f36-48c6-8d9f-a58cec09b2de" name="登录" type="Web" processName="chrome" icon=".dev\icon\e3085062-b72c-4dc0-b2cf-a71061dc2cdf.png" criteria="http://localhost:5173">
+    <selector id="460b2073-8322-4eaf-93c1-4e2cdc713fb5" name="我的商小" type="simple" framework="chrome" processName="chrome" productName="Google Chrome" winTitle="登录" screenshot=".dev\screenshot\35a90e10-6ea9-4175-9a26-77847e7f7ec5.jpg">
+      <web x:name="div">
+        <optional id="app" data-v-app="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-app">
+        <optional index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-page">
+        <optional data-page="pages/login/login" type="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-page-wrapper">
+        <optional index="1" index-of-type="0" />
+      </web>
+      <web x:name="uni-page-body">
+        <optional data-v-e4e4508d="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-e4e4508d="" class="login-container pagebg" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-e4e4508d="" class="form-container" index="1" index-of-type="1" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-e4e4508d="" class="input-group" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-input">
+        <optional data-v-e4e4508d="" required="" class="input" index="1" index-of-type="0" />
+      </web>
+      <web x:name="div">
+        <optional class="uni-input-wrapper" index="0" index-of-type="0" />
+      </web>
+      <web x:name="input" type="text">
+        <optional maxlength="140" step="" enterkeyhint="done" autocomplete="off" class="uni-input-input" index="1" index-of-type="0" />
+      </web>
+      <anchor text="我的商小" targetRectangle="[76,146,1502,36]" anchorRectangle="[757,70,96,34]" version="1" threshold="0.6" />
+    </selector>
+    <selector id="358c04a6-cff7-4daa-963b-f2ae6ffcd0c0" name="密码框" type="simple" framework="chrome" processName="chrome" productName="Google Chrome" winTitle="登录" screenshot=".dev\screenshot\ee217624-b655-409d-8a7f-2d493454452c.jpg">
+      <web x:name="div">
+        <optional id="app" data-v-app="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-app">
+        <optional index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-page">
+        <optional data-page="pages/login/login" type="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-page-wrapper">
+        <optional index="1" index-of-type="0" />
+      </web>
+      <web x:name="uni-page-body">
+        <optional data-v-e4e4508d="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-e4e4508d="" class="login-container pagebg" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-e4e4508d="" class="form-container" index="1" index-of-type="1" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-e4e4508d="" class="input-group" index="1" index-of-type="1" />
+      </web>
+      <web x:name="uni-input">
+        <optional data-v-e4e4508d="" class="input" index="1" index-of-type="0" />
+      </web>
+      <web x:name="div">
+        <optional class="uni-input-wrapper" index="0" index-of-type="0" />
+      </web>
+      <web x:name="input" type="password">
+        <optional maxlength="140" step="" enterkeyhint="done" autocomplete="off" class="uni-input-input" index="1" index-of-type="0" />
+      </web>
+    </selector>
+    <selector id="141db608-16bd-4414-a0af-96f83d55309a" name="登录" type="simple" framework="chrome" processName="chrome" productName="Google Chrome" winTitle="登录" screenshot=".dev\screenshot\10cdeccc-deec-4437-8c44-b720555dcd9d.jpg">
+      <web x:name="div">
+        <optional id="app" data-v-app="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-app">
+        <optional index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-page">
+        <optional data-page="pages/login/login" type="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-page-wrapper">
+        <optional index="1" index-of-type="0" />
+      </web>
+      <web x:name="uni-page-body">
+        <optional data-v-e4e4508d="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-e4e4508d="" class="login-container pagebg" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-e4e4508d="" class="form-container" index="1" index-of-type="1" />
+      </web>
+      <web x:name="uni-button">
+        <optional data-v-e4e4508d="" id="" class="login-btn" innerText="登录" index="2" index-of-type="0" />
+      </web>
+    </selector>
+    <selector id="2336cf87-d946-4bcd-ab5c-3da3cccc2c7d" name="图片" type="simple" framework="chromium" processName="ShadowBotBrowser" productName="ShadowBotBrowser" winTitle="首页" screenshot=".dev\screenshot\85c5ef93-9a95-4efa-b1e7-2d533d225944.jpg">
+      <web x:name="div">
+        <optional id="app" data-v-app="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-app">
+        <optional class="uni-app--showtabbar" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-page">
+        <optional data-page="pages/index/index" type="tabBar" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-page-wrapper">
+        <optional index="1" index-of-type="0" />
+      </web>
+      <web x:name="uni-page-body">
+        <optional data-v-1cf27b2a="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-1cf27b2a="" class="home pagebg" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-1cf27b2a="" class="waterfall" index="2" index-of-type="1" />
+      </web>
+      <web x:name="uni-view" index="0">
+        <optional data-v-0c1c42e9="" data-v-1cf27b2a="" class="card" index-of-type="0" />
+      </web>
+      <web x:name="uni-image">
+        <optional data-v-0c1c42e9="" class="card-image" index="0" index-of-type="0" />
+      </web>
+      <web x:name="img">
+        <optional src="http://localhost:8000/images/library.jpg" draggable="false" index="2" index-of-type="0" />
+      </web>
+    </selector>
+    <selector id="2263bf90-a4e6-4e70-8c8d-02aadbd2c9d7" name="输入框_uni-input-input" type="simple" framework="chromium" processName="ShadowBotBrowser" productName="ShadowBotBrowser" winTitle="localhost:5173/#/pages/note_info/note_info?id=1" screenshot=".dev\screenshot\cf3f86e2-fe2e-4b7b-a407-fbb51081c3c4.jpg">
+      <web x:name="div">
+        <optional id="app" data-v-app="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-app">
+        <optional index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-page">
+        <optional data-page="pages/note_info/note_info" type="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-page-wrapper">
+        <optional index="1" index-of-type="0" />
+      </web>
+      <web x:name="uni-page-body">
+        <optional data-v-f60b877d="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-f60b877d="" id="1" class="note_info" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-165fb010="" data-v-f60b877d="" class="commentposting" index="3" index-of-type="3" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-165fb010="" class="left" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-input">
+        <optional data-v-165fb010="" class="comment-input" index="0" index-of-type="0" />
+      </web>
+      <web x:name="div">
+        <optional class="uni-input-wrapper" index="0" index-of-type="0" />
+      </web>
+      <web x:name="input" type="text">
+        <optional maxlength="140" step="" enterkeyhint="done" autocomplete="off" class="uni-input-input" index="1" index-of-type="0" />
+      </web>
+    </selector>
+    <selector id="8f3091d0-e60c-48c1-aa9f-27db6c0e0e9a" name="发表" type="simple" framework="chromium" processName="ShadowBotBrowser" productName="ShadowBotBrowser" winTitle="localhost:5173/#/pages/note_info/note_info?id=1" screenshot=".dev\screenshot\0f8c3883-a60d-4c94-9716-1dc813c64dd6.jpg">
+      <web x:name="div">
+        <optional id="app" data-v-app="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-app">
+        <optional index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-page">
+        <optional data-page="pages/note_info/note_info" type="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-page-wrapper">
+        <optional index="1" index-of-type="0" />
+      </web>
+      <web x:name="uni-page-body">
+        <optional data-v-f60b877d="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-f60b877d="" id="1" class="note_info" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-165fb010="" data-v-f60b877d="" class="commentposting" index="3" index-of-type="3" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-165fb010="" class="right" index="1" index-of-type="1" />
+      </web>
+      <web x:name="uni-view" innerText="发表">
+        <optional data-v-165fb010="" class="btn" index="0" index-of-type="0" />
+      </web>
+    </selector>
+  </group>
+</repository>
