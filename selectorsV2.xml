@@ -334,5 +334,411 @@
         <optional data-v-d31e1c47="" data-v-f60b877d="" index="0" index-of-type="0" />
       </web>
     </selector>
+    <selector id="8ac31d38-00d7-4be1-843c-42c3e1aa5e01" name="校园评价" type="simple" framework="chromium" processName="ShadowBotBrowser" productName="ShadowBotBrowser" winTitle="校园评价" screenshot=".dev\screenshot\44eced36-e31f-421f-8460-763f02ad5441.jpg">
+      <web x:name="div">
+        <optional id="app" data-v-app="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-app">
+        <optional class="uni-app--showtabbar" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-tabbar">
+        <optional class="uni-tabbar-bottom" index="1" index-of-type="0" />
+      </web>
+      <web x:name="div">
+        <optional class="uni-tabbar" index="0" index-of-type="0" />
+      </web>
+      <web x:name="div">
+        <optional class="uni-tabbar__item" index="3" index-of-type="3" />
+      </web>
+      <web x:name="div">
+        <optional class="uni-tabbar__bd" index="0" index-of-type="0" />
+      </web>
+      <web x:name="div">
+        <optional class="uni-tabbar__icon uni-tabbar__icon__diff" index="0" index-of-type="0" />
+      </web>
+      <web x:name="img">
+        <optional src="/common/images/smile_se.png" index="0" index-of-type="0" />
+      </web>
+      <anchor text="校园评价" targetRectangle="[431,555,24,24]" anchorRectangle="[419,582,48,16]" version="1" threshold="0.6" />
+    </selector>
+    <selector id="e939ac4a-6212-4141-8178-73b76c89a7f1" name="分类" type="simple" framework="chromium" processName="ShadowBotBrowser" productName="ShadowBotBrowser" winTitle="校园评价" screenshot=".dev\screenshot\d332c30e-ac67-4543-99c0-c9a9330c20ce.jpg">
+      <web x:name="div">
+        <optional id="app" data-v-app="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-app">
+        <optional class="uni-app--showtabbar" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-page">
+        <optional data-page="pages/school_discussion/school_discussion" type="tabBar" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-page-wrapper">
+        <optional index="1" index-of-type="0" />
+      </web>
+      <web x:name="uni-page-body">
+        <optional data-v-103eb5ea="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-103eb5ea="" class="pagebg sd" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-103eb5ea="" class="searchbar" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view" innerText="分类">
+        <optional data-v-103eb5ea="" class="cate" index="0" index-of-type="0" />
+      </web>
+    </selector>
+    <selector id="c29187d4-6c21-4c1b-acb8-f71701f99d62" name="图书馆" type="simple" framework="chromium" processName="ShadowBotBrowser" productName="ShadowBotBrowser" winTitle="校园评价" screenshot=".dev\screenshot\1be705a9-2bb2-49b4-9c1a-fd99fb724e93.jpg">
+      <web x:name="div">
+        <optional id="app" data-v-app="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-app">
+        <optional class="uni-app--showtabbar" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-page">
+        <optional data-page="pages/school_discussion/school_discussion" type="tabBar" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-page-wrapper">
+        <optional index="1" index-of-type="0" />
+      </web>
+      <web x:name="uni-page-body">
+        <optional data-v-103eb5ea="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-103eb5ea="" class="pagebg sd" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-7db519c7="" data-v-103eb5ea="" class="bottom uni-popup" index="1" index-of-type="1" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-7db519c7="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-7db519c7="" name="content" index="1" index-of-type="1" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-7db519c7="" class="bottom uni-popup__wrapper" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-103eb5ea="" class="popup-content" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-103eb5ea="" class="category-list" index="1" index-of-type="1" />
+      </web>
+      <web x:name="uni-view" innerText="教学楼">
+        <optional data-v-103eb5ea="" class="category-item" index="0" index-of-type="0" />
+      </web>
+      <anchor text="图书馆" targetRectangle="[28,247,652,58]" anchorRectangle="[292,169,142,63]" version="1" threshold="0.85" />
+    </selector>
+    <selector id="bef3dd05-e5de-4b98-b3f8-0f931dc30821" name="教学楼" type="simple" framework="chromium" processName="ShadowBotBrowser" productName="ShadowBotBrowser" winTitle="校园评价" screenshot=".dev\screenshot\424bf93b-5eed-4b63-818c-0d692475c46f.jpg">
+      <web x:name="div">
+        <optional id="app" data-v-app="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-app">
+        <optional class="uni-app--showtabbar" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-page">
+        <optional data-page="pages/school_discussion/school_discussion" type="tabBar" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-page-wrapper">
+        <optional index="1" index-of-type="0" />
+      </web>
+      <web x:name="uni-page-body">
+        <optional data-v-103eb5ea="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-103eb5ea="" class="pagebg sd" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-7db519c7="" data-v-103eb5ea="" class="bottom uni-popup" index="1" index-of-type="1" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-7db519c7="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-7db519c7="" name="content" index="1" index-of-type="1" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-7db519c7="" class="bottom uni-popup__wrapper" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-103eb5ea="" class="popup-content" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-103eb5ea="" class="category-list" index="1" index-of-type="1" />
+      </web>
+      <web x:name="uni-view" innerText="教学楼">
+        <optional data-v-103eb5ea="" class="category-item" index="0" index-of-type="0" />
+      </web>
+      <anchor text="教学楼" targetRectangle="[28,247,652,58]" anchorRectangle="[292,169,142,63]" version="1" threshold="0.85" />
+    </selector>
+    <selector id="7eddb0dd-ba44-4ff4-b293-b7a97d6e151f" name="uni-view_notdes" type="simple" framework="chromium" processName="ShadowBotBrowser" productName="ShadowBotBrowser" winTitle="校园评价" screenshot=".dev\screenshot\87e9fb63-09ee-421f-b33a-ab1e1dbbb7ea.jpg">
+      <web x:name="div">
+        <optional id="app" data-v-app="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-app">
+        <optional class="uni-app--showtabbar" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-page">
+        <optional data-page="pages/school_discussion/school_discussion" type="tabBar" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-page-wrapper">
+        <optional index="1" index-of-type="0" />
+      </web>
+      <web x:name="uni-page-body">
+        <optional data-v-103eb5ea="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-103eb5ea="" class="pagebg sd" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-103eb5ea="" class="objcards" index="2" index-of-type="2" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-103eb5ea="" class="objcard" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-10bde99b="" data-v-103eb5ea="" class="card" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-10bde99b="" class="notimage" index="1" index-of-type="1" />
+      </web>
+      <web x:name="uni-view" class="notdes">
+        <optional data-v-10bde99b="" index="0" index-of-type="0" />
+      </web>
+    </selector>
+    <selector id="073dbd90-778b-450d-ab62-e2202206ee9a" name="uni-text_2" type="simple" framework="chromium" processName="ShadowBotBrowser" productName="ShadowBotBrowser" winTitle="localhost:5173/#/pages/school_judge_info/school_judge_info?judgeId=2" screenshot=".dev\screenshot\6fb06932-3f87-4904-9152-a2ff7f274081.jpg">
+      <web x:name="div">
+        <optional id="app" data-v-app="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-app">
+        <optional index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-page">
+        <optional data-page="pages/school_judge_info/school_judge_info" type="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-page-wrapper">
+        <optional index="1" index-of-type="0" />
+      </web>
+      <web x:name="uni-page-body">
+        <optional data-v-dca05841="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-dca05841="" judgeid="2" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-dca05841="" class="up_intro" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-dca05841="" class="unimage" index="1" index-of-type="1" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-dca05841="" class="rate" index="4" index-of-type="4" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-5c8fbdf3="" data-v-dca05841="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-5c8fbdf3="" class="uni-rate" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view" index="3">
+        <optional data-v-5c8fbdf3="" class="uni-rate__icon" index-of-type="3" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-5c8fbdf3="" class="uni-rate__icon-on" index="1" index-of-type="0" />
+      </web>
+      <web x:name="uni-text">
+        <optional data-v-d31e1c47="" data-v-5c8fbdf3="" class="uni-icons uniui-star-filled" index="0" index-of-type="0" />
+      </web>
+    </selector>
+    <selector id="329ebbdd-2881-47db-9096-3156520f257d" name="确认" type="simple" framework="chromium" processName="ShadowBotBrowser" productName="ShadowBotBrowser" winTitle="localhost:5173/#/pages/school_judge_info/school_judge_info?judgeId=2" screenshot=".dev\screenshot\3ef2d798-6f73-448d-aa47-e5171cc8c220.jpg">
+      <web x:name="div">
+        <optional id="app" data-v-app="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-app">
+        <optional index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-page">
+        <optional data-page="pages/school_judge_info/school_judge_info" type="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-page-wrapper">
+        <optional index="1" index-of-type="0" />
+      </web>
+      <web x:name="uni-page-body">
+        <optional data-v-dca05841="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-dca05841="" judgeid="2" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-dca05841="" class="up_intro" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-dca05841="" class="unimage" index="1" index-of-type="1" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-dca05841="" class="rate" index="4" index-of-type="4" />
+      </web>
+      <web x:name="uni-view" innerText="确认">
+        <optional data-v-dca05841="" class="confirm" index="1" index-of-type="1" />
+      </web>
+    </selector>
+    <selector id="5efefc3f-260f-45c3-ac3a-026ccad0e75f" name="输入框_uni-input-input_1" type="simple" framework="chromium" processName="ShadowBotBrowser" productName="ShadowBotBrowser" winTitle="localhost:5173/#/pages/school_judge_info/school_judge_info?judgeId=2" screenshot=".dev\screenshot\c018ad82-8028-43f2-bc38-2e15866cd232.jpg">
+      <web x:name="div">
+        <optional id="app" data-v-app="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-app">
+        <optional index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-page">
+        <optional data-page="pages/school_judge_info/school_judge_info" type="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-page-wrapper">
+        <optional index="1" index-of-type="0" />
+      </web>
+      <web x:name="uni-page-body">
+        <optional data-v-dca05841="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-dca05841="" judgeid="2" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-165fb010="" data-v-dca05841="" class="commentposting" index="3" index-of-type="3" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-165fb010="" class="left" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-input">
+        <optional data-v-165fb010="" class="comment-input" index="0" index-of-type="0" />
+      </web>
+      <web x:name="div">
+        <optional class="uni-input-wrapper" index="0" index-of-type="0" />
+      </web>
+      <web x:name="input" type="text">
+        <optional maxlength="140" step="" enterkeyhint="done" autocomplete="off" class="uni-input-input" index="1" index-of-type="0" />
+      </web>
+    </selector>
+    <selector id="12441f52-ddb8-445f-8b57-5a1ffe9ad028" name="发表_1" type="simple" framework="chromium" processName="ShadowBotBrowser" productName="ShadowBotBrowser" winTitle="localhost:5173/#/pages/school_judge_info/school_judge_info?judgeId=2" screenshot=".dev\screenshot\e56987be-fa9d-4500-b0c4-103873677dee.jpg">
+      <web x:name="div">
+        <optional id="app" data-v-app="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-app">
+        <optional index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-page">
+        <optional data-page="pages/school_judge_info/school_judge_info" type="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-page-wrapper">
+        <optional index="1" index-of-type="0" />
+      </web>
+      <web x:name="uni-page-body">
+        <optional data-v-dca05841="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-dca05841="" judgeid="2" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-165fb010="" data-v-dca05841="" class="commentposting" index="3" index-of-type="3" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-165fb010="" class="right" index="1" index-of-type="1" />
+      </web>
+      <web x:name="uni-view" innerText="发表">
+        <optional data-v-165fb010="" class="btn" index="0" index-of-type="0" />
+      </web>
+    </selector>
+    <selector id="e9aee392-99db-4816-9c9b-d4414b775c19" name="教学楼_1" type="simple" framework="chromium" processName="ShadowBotBrowser" productName="ShadowBotBrowser" winTitle="校园评价" screenshot=".dev\screenshot\c5ead2aa-5f63-466d-9999-ee3beb84941a.jpg">
+      <web x:name="div">
+        <optional id="app" data-v-app="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-app">
+        <optional class="uni-app--showtabbar" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-page">
+        <optional data-page="pages/school_discussion/school_discussion" type="tabBar" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-page-wrapper">
+        <optional index="1" index-of-type="0" />
+      </web>
+      <web x:name="uni-page-body">
+        <optional data-v-103eb5ea="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-103eb5ea="" class="pagebg sd" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-7db519c7="" data-v-103eb5ea="" class="bottom fixforpc-z-index uni-popup" index="1" index-of-type="1" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-7db519c7="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-7db519c7="" name="content" index="1" index-of-type="1" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-7db519c7="" class="bottom uni-popup__wrapper" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-103eb5ea="" class="popup-content" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-103eb5ea="" class="category-list" index="1" index-of-type="1" />
+      </web>
+      <web x:name="uni-view" innerText="教学楼">
+        <optional data-v-103eb5ea="" class="category-item" index="0" index-of-type="0" />
+      </web>
+    </selector>
+    <selector id="c83478bc-b4ad-4a17-a59b-99b632e4ad9e" name="我的" type="simple" framework="chromium" processName="ShadowBotBrowser" productName="ShadowBotBrowser" winTitle="我的" screenshot=".dev\screenshot\a2459cba-d8bf-48bd-9420-21f377f44bc8.jpg">
+      <web x:name="div">
+        <optional id="app" data-v-app="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-app">
+        <optional class="uni-app--showtabbar" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-tabbar">
+        <optional class="uni-tabbar-bottom" index="1" index-of-type="0" />
+      </web>
+      <web x:name="div">
+        <optional class="uni-tabbar" index="0" index-of-type="0" />
+      </web>
+      <web x:name="div">
+        <optional class="uni-tabbar__item" index="4" index-of-type="4" />
+      </web>
+      <web x:name="div">
+        <optional class="uni-tabbar__bd" index="0" index-of-type="0" />
+      </web>
+      <web x:name="div">
+        <optional class="uni-tabbar__icon uni-tabbar__icon__diff" index="0" index-of-type="0" />
+      </web>
+      <web x:name="img">
+        <optional src="/common/images/mine_se.png" index="0" index-of-type="0" />
+      </web>
+      <anchor text="我的" targetRectangle="[1093,555,24,24]" anchorRectangle="[1093,582,24,16]" version="1" threshold="0.6" />
+    </selector>
+    <selector id="a2ecadbd-f005-4005-b968-2e5050716665" name="收藏" type="simple" framework="chromium" processName="ShadowBotBrowser" productName="ShadowBotBrowser" winTitle="我的" screenshot=".dev\screenshot\eaf9bbe0-0a9e-458b-a36b-fc19b3637c71.jpg">
+      <web x:name="div">
+        <optional id="app" data-v-app="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-app">
+        <optional class="uni-app--showtabbar" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-page">
+        <optional data-page="pages/mine/mine" type="tabBar" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-page-wrapper">
+        <optional index="1" index-of-type="0" />
+      </web>
+      <web x:name="uni-page-body">
+        <optional data-v-7c2ebfa5="" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-7c2ebfa5="" class="container" index="0" index-of-type="0" />
+      </web>
+      <web x:name="uni-view">
+        <optional data-v-7c2ebfa5="" class="function-list" index="1" index-of-type="1" />
+      </web>
+      <web x:name="uni-view" class="list-item" index="0">
+        <optional data-v-7c2ebfa5="" index-of-type="0" />
+      </web>
+    </selector>
   </group>
 </repository>

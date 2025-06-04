@@ -35,22 +35,29 @@
       "groupName": null
     },
     {
-      "name": "子流程1",
+      "name": "点赞",
       "filename": "process1",
       "kind": "Visual",
       "opened": false,
       "groupName": null
     },
     {
-      "name": "子流程2",
+      "name": "收藏",
       "filename": "process2",
       "kind": "Visual",
       "opened": false,
       "groupName": null
     },
     {
-      "name": "子流程3",
-      "filename": "process3",
+      "name": "评分",
+      "filename": "process4",
+      "kind": "Visual",
+      "opened": false,
+      "groupName": null
+    },
+    {
+      "name": "查看收藏",
+      "filename": "process5",
       "kind": "Visual",
       "opened": false,
       "groupName": null
